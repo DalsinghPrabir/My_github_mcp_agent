@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐙 GitHub MCP Agent
 
 ### 🎓 FREE Step-by-Step Tutorial 
@@ -69,3 +70,7 @@ A Streamlit application that allows you to explore and analyze GitHub repositori
 - "Show repository activity patterns"
 - "Analyze code quality trends"
 
+=======
+# My_github_mcp_agent
+Python Streamlit based MCP agent for github repo
+>>>>>>> b2e3a6fbcaff0566abf93e610be051173f971157
