@@ -1,8 +1,7 @@
 <<<<<<< HEAD
 # 🐙 GitHub MCP Agent
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-an-mcp-github-agent-in-less-than-50-lines-of-code) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
+
 
 A Streamlit application that allows you to explore and analyze GitHub repositories using natural language queries and the GitHub REST API.
 
@@ -24,11 +23,7 @@ A Streamlit application that allows you to explore and analyze GitHub repositori
 
 ### Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd mcp-github-agent
-   ```
+
 
 2. Install the required Python packages:
    ```bash
@@ -42,7 +37,7 @@ A Streamlit application that allows you to explore and analyze GitHub repositori
 ### Running the App
 
 1. Start the Streamlit app:
-   ```bash
+   ``
    streamlit run github_agent.py
    ```
 
@@ -70,7 +65,4 @@ A Streamlit application that allows you to explore and analyze GitHub repositori
 - "Show repository activity patterns"
 - "Analyze code quality trends"
 
-=======
-# My_github_mcp_agent
-Python Streamlit based MCP agent for github repo
->>>>>>> b2e3a6fbcaff0566abf93e610be051173f971157
+
